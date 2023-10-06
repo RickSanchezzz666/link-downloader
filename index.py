@@ -5,6 +5,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import time
 
+#3.10.8 python
+
 driver = webdriver.Chrome()
 
 driver.get('file:///E:/link/CCShoppingHaulAugust2022.html') # змінити шлях
