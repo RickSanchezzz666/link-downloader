@@ -13,7 +13,9 @@ driver.get('file:///E:/link/CCShoppingHaulAugust2022.html') # змінити ш�
 
 action = ActionChains(driver)
 
-time.sleep(5)
+time.sleep(3)
+
+#patreon
 
 patreonToVisit = []
 
